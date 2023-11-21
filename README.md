@@ -1,4 +1,4 @@
-# Geospatial and Time Series Analysis of Olympic Athletes Data
+# Time Series Analysis of Olympic Athletes Data
 
 This repository contains the Jupyter Notebook and associated data for my project on the analysis of Olympic athletes, completed as part of my Data Visualization and Exploration course at the University of the Witwatersrand.
 
